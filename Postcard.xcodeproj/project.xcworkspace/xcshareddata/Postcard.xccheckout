@@ -12,20 +12,24 @@
 	<dict>
 		<key>1B8D0157D302C68EA3BA6F00264BEB37BA369300</key>
 		<string>github.com:micmnm/bitfountain.swift.git</string>
+		<key>BDA07308707C114D6261659F79C983F90A0FDE58</key>
+		<string>github.com:micmnm/Postcard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Postcard/Postcard.xcodeproj</string>
+	<string>Postcard.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1B8D0157D302C68EA3BA6F00264BEB37BA369300</key>
-		<string>../../..</string>
+		<string>../../../github.bitfountain</string>
+		<key>BDA07308707C114D6261659F79C983F90A0FDE58</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:micmnm/bitfountain.swift.git</string>
+	<string>github.com:micmnm/Postcard.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1B8D0157D302C68EA3BA6F00264BEB37BA369300</string>
+	<string>BDA07308707C114D6261659F79C983F90A0FDE58</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>1B8D0157D302C68EA3BA6F00264BEB37BA369300</string>
 			<key>IDESourceControlWCCName</key>
 			<string>github.bitfountain</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDA07308707C114D6261659F79C983F90A0FDE58</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcard</string>
 		</dict>
 	</array>
 </dict>

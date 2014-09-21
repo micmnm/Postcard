@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0843796119CF4396009E402D /* Lisabonita - 031.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0843796019CF4396009E402D /* Lisabonita - 031.jpg */; };
+		0843796319CF43C5009E402D /* Lisabonita - 162.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0843796219CF43C5009E402D /* Lisabonita - 162.jpg */; };
 		08C0DB4419CDE1F200035224 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C0DB4319CDE1F200035224 /* AppDelegate.swift */; };
 		08C0DB4619CDE1F200035224 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C0DB4519CDE1F200035224 /* ViewController.swift */; };
 		08C0DB4919CDE1F200035224 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08C0DB4719CDE1F200035224 /* Main.storyboard */; };
@@ -28,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0843796019CF4396009E402D /* Lisabonita - 031.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lisabonita - 031.jpg"; sourceTree = "<group>"; };
+		0843796219CF43C5009E402D /* Lisabonita - 162.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lisabonita - 162.jpg"; sourceTree = "<group>"; };
 		08C0DB3E19CDE1F200035224 /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C0DB4219CDE1F200035224 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08C0DB4319CDE1F200035224 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 		08C0DB4119CDE1F200035224 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0843796219CF43C5009E402D /* Lisabonita - 162.jpg */,
+				0843796019CF4396009E402D /* Lisabonita - 031.jpg */,
 				08FA828419CEAA7B0001398B /* SagradaFamilia.jpeg */,
 				08FA828219CEAA6F0001398B /* AlbertEinsteinStamp.jpg */,
 				08C0DB4219CDE1F200035224 /* Info.plist */,
@@ -200,6 +206,8 @@
 			files = (
 				08FA828319CEAA6F0001398B /* AlbertEinsteinStamp.jpg in Resources */,
 				08C0DB4919CDE1F200035224 /* Main.storyboard in Resources */,
+				0843796119CF4396009E402D /* Lisabonita - 031.jpg in Resources */,
+				0843796319CF43C5009E402D /* Lisabonita - 162.jpg in Resources */,
 				08C0DB4E19CDE1F200035224 /* LaunchScreen.xib in Resources */,
 				08C0DB4B19CDE1F200035224 /* Images.xcassets in Resources */,
 				08FA828519CEAA7B0001398B /* SagradaFamilia.jpeg in Resources */,

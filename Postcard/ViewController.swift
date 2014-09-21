@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var nameLabel: UILabel!
+    
     @IBOutlet weak var messageLabel: UILabel!
     
     @IBOutlet weak var nameTextField: UITextField!
@@ -31,12 +33,23 @@ class ViewController: UIViewController {
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
         // Code will evaluate when we press the button
-        // adding a commit here to test commit
+        
+        // Message field
         messageLabel.hidden = false
         messageLabel.text = messageTextField.text
         messageTextField.text = ""
-        messageTextField.resignFirstResponder()
         messageLabel.textColor = UIColor.redColor()
+        
+        // Name field
+        nameLabel.hidden = false
+        nameLabel.text = nameTextField.text
+        nameTextField.text = ""
+        nameLabel.textColor = UIColor.blueColor()
+        
+        
+        // Hide responder (keyboard)
+        messageTextField.resignFirstResponder()
+        // Set text for button as sent
         mailButton.setTitle("mail sent", forState: UIControlState.Normal)
         
     }
